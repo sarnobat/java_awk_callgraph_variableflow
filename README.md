@@ -1,6 +1,7 @@
 # java_awk_callgraph_variableflow
 
-TODO 2024-04: capture sample output of each
+* TODO 2024-04: see if you can create a diagram that connects these. It's confusing right now. I don't know where to start.
+* TODO 2024-04: capture sample output of each
 
 ```
    643525      4 -rwxrwxr-x   1 sarnobat admin        2192 Jun 22  2023 ./awk_javap_classes_csv.awk
