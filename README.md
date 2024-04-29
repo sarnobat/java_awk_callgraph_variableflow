@@ -14,4 +14,8 @@
    643517      4 -rwxrwxr-x   1 sarnobat admin        1267 Jun 22  2023 ./awk_java_class_import_csv.awk
 ```
 
+### csv to tree
 Once you've created a CSV file, you can at minimum convert csv to indented using `graalvm_aotc_java/9_csv2path`
+
+### Cscope call graph not great
+* Unfortunately, `cscope -L3 output` doesn't give formal output for the right hand side, so you can't really use it.
